@@ -233,9 +233,9 @@ a.close {
 }
 @font-face {
   font-family: "Muller";
-  src: url("/fonts/MullerRegular.eot") format("eot"),
-    url("/fonts/MullerRegular.ttf") format("ttf"),
-    url("/fonts/MullerRegular.woff") format("woff");
+  src: url("../fonts/MullerRegular.eot") format("eot"),
+    url("../fonts/MullerRegular.ttf") format("ttf"),
+    url("../fonts/MullerRegular.woff") format("woff");
 }
 
 @media only screen and (max-width: 480px) {
